@@ -1,0 +1,4 @@
+rootProject.name = 'java-modular'
+include 'digital.innovation.one.core'
+include 'digital.innovation.one.utils'
+
